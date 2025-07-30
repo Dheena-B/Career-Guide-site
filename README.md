@@ -51,6 +51,13 @@ career-guide-site/
 
 ![New Project (7)](https://github.com/user-attachments/assets/e7f353d2-7735-45ef-9e92-67a4f273f3d6)
 
+
+ License
+This project is licensed under the MIT License – feel free to use it
+
+👨‍💻 Author
+Dheena Coder
+
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository:
@@ -81,5 +88,7 @@ npm start
 <img width="1648" height="1042" alt="screencapture-localhost-5173-login-2025-07-30-15_16_11" src="https://github.com/user-attachments/assets/b97514fe-6f83-4dff-bc8e-3d7f49b1325e" />
 
 📸 Screenshots
+
+
 
 
